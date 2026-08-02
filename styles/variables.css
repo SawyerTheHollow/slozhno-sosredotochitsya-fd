@@ -2,3 +2,18 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root {
+  --footer-shadow-color: rgba(255, 0, 112, 1);
+  --theme-background-image: url("../images/cover-image-dark.png");
+  --menu-button-color: rgba(255, 0, 112, 1);
+  --menu-button-hover: rgba(255, 0, 112, 0.4);
+  --background-color: rgb(0 2 49);
+  --main-title-color: rgba(219, 0, 255, 1);
+  --section-title-color: rgba(255, 0, 112, 1);
+  --paragraph-title-color: rgba(0, 0, 40, 1);
+  --paragraph-title-background-color: rgba(255, 0, 112, 1);
+  --paragraph-text-color: rgba(241, 178, 206, 1);
+  --link-accent-color: rgba(255, 0, 112, 1);
+  --rec-sign-color: rgba(255, 0, 112, 1);
+}
