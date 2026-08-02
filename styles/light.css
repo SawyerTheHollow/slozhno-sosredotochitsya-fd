@@ -10,6 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --theme-background-image: url("../images/cover-image-light.png");
+  --main-title-shadow-color: rgba(255, 141, 203, 1);
   --menu-button-color: rgba(53, 52, 48, 1);
   --menu-button-hover: rgba(50, 49, 45, 0.4);
   --background-color: rgb(255 241 247);
@@ -25,6 +26,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --theme-background-image: url("../images/cover-image-light.png");
+    --main-title-shadow-color: rgba(255, 141, 203, 1);
     --menu-button-color: rgba(53, 52, 48, 1);
     --menu-button-hover: rgba(50, 49, 45, 0.4);
     --background-color: rgb(255 241 247);

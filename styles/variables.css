@@ -4,8 +4,8 @@
 */
 
 :root {
-  --footer-shadow-color: rgba(255, 0, 112, 1);
   --theme-background-image: url("../images/cover-image-dark.png");
+  --main-title-shadow-color: rgba(255, 0, 112, 1);
   --menu-button-color: rgba(255, 0, 112, 1);
   --menu-button-hover: rgba(255, 0, 112, 0.4);
   --background-color: rgb(0 2 49);
